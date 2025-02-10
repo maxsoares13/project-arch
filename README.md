@@ -1,1 +1,1 @@
-# projetc-arch
+# project-arch
